@@ -1,6 +1,6 @@
-# 🌟 Kuldeep Negi | Software Engineer & Generative AI Enthusiast 🌟
+#  Kuldeep Negi | Software Engineer 
 
-Hi there! 👋 Welcome to my GitHub profile. I’m Kuldeep Negi, a dedicated Software Engineer with a passion for **Generative AI**. With expertise in **front-end development** (JavaScript, TypeScript), **back-end development** (.NET, Python), and a proven ability to solve complex problems, I specialize in building innovative solutions through **code**, **AI-driven technologies**, and **automation tools** like Power Platform and UiPath. 🚀
+Hell ! Welcome to my GitHub profile. I’m Kuldeep Negi, a dedicated Software Engineer with a passion for **Generative AI**. With expertise in **front-end development** (JavaScript, TypeScript), **back-end development** (.NET, Python), and a proven ability to solve complex problems, I specialize in building innovative solutions through **code**, **AI-driven technologies**, and **automation tools** like Power Platform and UiPath.
 
 ---
 
@@ -31,7 +31,7 @@ Throughout my career, I have gained extensive experience and expertise in the fo
 - **Low-Code Platforms**: Expert in tools like **UiPath**, **Automation Anywhere**, **Robocorp**, and **Alteryx**.
 - **Power Platform**: Proficient in **Power Automate**, **Power Apps**, and **Power BI** for building low-code solutions.
 - **AWS Serverless Solutions**: Built end-to-end solutions using **AWS Lambda**, **API Gateway**, **DynamoDB**, **S3**, **SNS**, **SQS**, and server configurations.
-
+- **Agile Methodologies**: In-depth knowledge of **Agile practices**, with expertise as a **Scrum** and **Kanban facilitator**.
 ---
 
 ## 📚 What I’m Learning
